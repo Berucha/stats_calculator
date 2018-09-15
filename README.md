@@ -1,2 +1,2 @@
 # stats_calculator
-Program used to for statistical calculations
+Program used for statistical calculations
